@@ -1,0 +1,1 @@
+python finetune.py --dataset bbbp --dataroot ./data/MPP/classification --gpu 0 --resume ./pth/ImageMol.pth.tar
